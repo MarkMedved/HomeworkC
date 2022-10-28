@@ -1,0 +1,15 @@
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/bin/Debug/net6.0/Examle001_HelloConcole
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/bin/Debug/net6.0/Examle001_HelloConcole.deps.json
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/bin/Debug/net6.0/Examle001_HelloConcole.runtimeconfig.json
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/bin/Debug/net6.0/Examle001_HelloConcole.dll
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/bin/Debug/net6.0/Examle001_HelloConcole.pdb
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.csproj.AssemblyReference.cache
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.AssemblyInfoInputs.cache
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.AssemblyInfo.cs
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.dll
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/refint/Examle001_HelloConcole.dll
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.pdb
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/Examle001_HelloConcole.genruntimeconfig.cache
+/Users/mac/Documents/Тестирование/Csharp/Examle001_HelloConcole/obj/Debug/net6.0/ref/Examle001_HelloConcole.dll
