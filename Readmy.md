@@ -6,5 +6,5 @@
   # Задача Hello user!
  Написать Hello user
 
- [Код](Ex002_ HelloUser/Program.cs)
+ [Код](Ex002_HelloUser/Program.cs)
 
