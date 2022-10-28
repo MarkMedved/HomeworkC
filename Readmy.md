@@ -22,3 +22,8 @@
 Найти сумму  из двух рандомных чисел
 
 [Код](Ex005_SumRandom/Program.cs)
+
+# Задача ConditionIfElse!
+Поприветствовать челова взвисимости от имени(Маша)
+
+[Код](Ex006_ConditionIfElse/Program.cs)
