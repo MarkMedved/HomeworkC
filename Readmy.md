@@ -3,4 +3,8 @@
 
  [Код](Ex001_HelloConcole/Program.cs)
 
-  # Задача Hello world! 
+  # Задача Hello user!
+ Написать Hello user
+
+ [Код](Ex002_ HelloUser/Program.cs)
+
