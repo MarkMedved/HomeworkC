@@ -8,3 +8,6 @@
 
  [Код](Ex002_HelloUser/Program.cs)
 
+# Задача Sum!
+
+[Код](Ex003_Sum/Program.cs)
