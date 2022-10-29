@@ -32,3 +32,7 @@
 Найти максимальное по весу гирю
 
 [Код](Ex007_FindMax/Program.cs)
+
+# Задача Function
+
+[Код](Ex_009Function)
