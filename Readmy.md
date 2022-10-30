@@ -36,4 +36,14 @@
 # Задача Function
 Найти максимальное занчение с помощью функции
 
-[Код](Ex_009Function)
+[Код](Ex009_FunctionFindMax/Program.cs)
+
+# Задача Findnumber
+Найти число в массиве подходящее по значению
+
+[Код](Ex010_Findnumber/Program.cs)
+
+# Задача FindRandom
+Найти из сгенерированых рандомом чисел, то что указали
+
+[Код](Ex011_FindRandomMax/Program.cs)
