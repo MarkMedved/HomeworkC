@@ -56,3 +56,11 @@
 # Задача IntStraight
 Написать сообщение какое-то количество раз
 [Код](Ex013_IntString/Program.cs)
+
+# Задача Cycle For
+ Записать таблицу умножения
+[Код](Ex014_ForCycle/Program.cs)
+
+# Задача ReplaceText
+ Заменяет символы текста на нужные нам
+[Код](Ex015_ReplaceText/Program.cs)
