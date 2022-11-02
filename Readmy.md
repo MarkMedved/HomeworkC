@@ -64,3 +64,7 @@
 # Задача ReplaceText
  Заменяет символы текста на нужные нам
 [Код](Ex015_ReplaceText/Program.cs)
+
+# Задача ReplaceMinNum
+Просортировать массив от меньшего к большему значению
+[Код](Ex016_ReplaceNum/Program.cs)
